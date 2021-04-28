@@ -1,4 +1,4 @@
-## Welcome to GitHub P
+## Welcome to GitHub P 
 
 You can use the [editor on GitHub](https://github.com/CLS27/python/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
